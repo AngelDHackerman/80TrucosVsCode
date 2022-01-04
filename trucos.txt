@@ -1,0 +1,39 @@
+ctrl + shift + p                    Ver todos los comandos disponibles.
+ctrl + n                            Crea un nuevo archivo.
+ctrl + s                            Guarda el archivo.
+ctrl + b                            Esconde / muestra la barra lateral.
+ctrl + +                            Hace la pantalla mas grande.
+ctrl + -                            Hace la pantalla mas pequeña.
+ctrl + (en algun archivo NO creado en HTML)       Nos da la opcion de crear el archivo. truco#6
+ctrl + z                            Deshace los cambios.
+
+
+ul#lista>li*7.items>p                  crea un ul con id=lista que dentro tiene 7 li con la clase=items. que dentro tienen un parrafo
+p>lorem*2                                 crea un lorem ipsum 2 veces dentro de una etiqueta parrafo.
+p>lorem5                                crea un lorem de 5 palabras dentro de un parrafo
+p+article+div>h1                      crea 1 parrafo & 1 article & 1 div con la clase=hola que dentro tiene un h1.
+(div>ul>li*5>a)+(nav>ul*4>a)        crea un DIV y un NAV en la misma raiz que dentro tienen sus respectivas etiquetas.
+
+
+
+
+
+ctrl +
+ctrl +
+ctrl +
+ctrl + 
+ctrl +
+ctrl +
+ctrl +
+ctrl +
+ctrl + 
+ctrl +
+ctrl +
+ctrl +
+ctrl +
+ctrl + 
+
+ 
+
+
+
