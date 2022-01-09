@@ -21,7 +21,7 @@ a[href=#]                           con los corchetes cuadrados podemos modifica
 ul>li.juego$@-*4                    crea una UL con sus LI y tiene las enumeraciones pero en REVERSA
 #loQueSea                           crea un DIV con el ID=loQueSea
 
-
+hola 
 
 ctrl +
 ctrl +
