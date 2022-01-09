@@ -20,14 +20,21 @@ a[href=#]                           con los corchetes cuadrados podemos modifica
 
 ul>li.juego$@-*4                    crea una UL con sus LI y tiene las enumeraciones pero en REVERSA
 #loQueSea                           crea un DIV con el ID=loQueSea
+.loQueSea                           crea un DIV con la clase=loQueSea
+article.item.articulo               crea un ARTICULO con la clase=item y articulo
 
-hola 
+a[href=google.com target=blank]     crea la etiqueta A y le agrega 2 atributos al mismo tiempo.
+p>{Dale click}+a:blank{aqui}[href="#"]   crea un parrafo y la palabra aqui se crea un link  
+ctrl + k , ctrl + c                       comenta la linea codigo
+ctrl + k , ctrl + u                       elimina el comentario, (es para otros lenguajes que no sean HTML)
 
-ctrl +
-ctrl +
-ctrl +
-ctrl + 
-ctrl +
+ctrl + shift + a                          agrega / elimina un comentario, y grupos de lineas de comentarios
+
+
+
+
+
+
 ctrl +
 ctrl +
 ctrl + 
