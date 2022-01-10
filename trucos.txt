@@ -1,5 +1,4 @@
-ctrl + shift + p                    Ver todos los comandos disponibles.
-ctrl + n                            Crea un nuevo archivo.
+ctrl + shift + p                    Ver todos los comandos disponibles.ctrl + n                            Crea un nuevo archivo.
 ctrl + s                            Guarda el archivo.
 ctrl + b                            Esconde / muestra la barra lateral.
 
@@ -29,18 +28,36 @@ ctrl + k , ctrl + c                       comenta la linea codigo
 ctrl + k , ctrl + u                       elimina el comentario, (es para otros lenguajes que no sean HTML)
 
 ctrl + shift + a                          agrega / elimina un comentario, y grupos de lineas de comentarios
+ctrl + shift + i                            identa el codigo lo mejor posible.
+alt + flechas up or down                  podemos mover las lineas de codigo.
+ctrl + shift + k                          Elimina una linea entera de codigo
+
+f12                         nos lleva a la definicion de la variable o archivo donde tenemos el cursor.
+shift + f12                 nos da la referencia de donde tenemos el cursor.
+f2                          seleciona una variable y podemos renombrarla y cambia solo las variables NO strings que pueden ser el valor de un variable.
+ctrl + shift + c            abre la terminal en la ruta donde tenemos el proyecto.
+
+ctrl + `                    abre la terminal de Vs code.
+ctrl + shift + 5            divide la terminal en 2. 
+alt + 1 or alt + 2          nos vamos al tap 1 o al tap 2 que tenemos abierto.
+ctrl + 2                    divide la pantalla de Vs code para tener 2 documentos abiertos a la vista al mismo tiempo.
+
+ctrl + 1 or ctrl + 2        nos movemos entre vistas de Vs code.
+ctrl + /                    agregamos un comentario. 
+ctrl + \                    podemos divir la pantalla igual que ctrl + 1
 
 
 
-
-
-
-ctrl +
-ctrl +
 ctrl + 
-ctrl +
-ctrl +
-ctrl +
+ctrl + 
+ctrl + 
+ctrl + 
+ctrl + 
+ctrl + 
+ctrl + 
+ctrl + 
+ctrl + 
+ctrl + 
 ctrl + 
 
  
