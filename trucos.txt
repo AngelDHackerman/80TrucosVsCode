@@ -45,22 +45,26 @@ ctrl + 2                    divide la pantalla de Vs code para tener 2 documento
 ctrl + 1 or ctrl + 2        nos movemos entre vistas de Vs code.
 ctrl + /                    agregamos un comentario. 
 ctrl + \                    podemos divir la pantalla igual que ctrl + 1
+ctrl + w                    cerrarmos la pestaña. 
+
+ctrl + shift + t            reabrimos la pestaña recien
+shift + alt + flecha derecha  seleccionamos todo el contenido dentro de las etiquetas
+ctrl + shift + d              abre el depurador de Vs code.
+ctrl + d                    selecciona las etiquetas del mismo nombre o las mismas variables.
+
+ctrl + flecha abajo         mueve la vista de Vs code.
+ctrl + shift + l            selecciona TODAS las etiquetas con el mismo nombre.
 
 
 
-ctrl + 
-ctrl + 
-ctrl + 
-ctrl + 
-ctrl + 
-ctrl + 
+
 ctrl + 
 ctrl + 
 ctrl + 
 ctrl + 
 ctrl + 
 
- 
+
 
 
 
