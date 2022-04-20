@@ -1,3 +1,5 @@
+ctrl + shift + v                    Da la vista previa de como se vera el readme.
+
 ctrl + shift + p                    Ver todos los comandos disponibles.ctrl + n                            Crea un nuevo archivo.
 ctrl + s                            Guarda el archivo.
 ctrl + b                            Esconde / muestra la barra lateral.
